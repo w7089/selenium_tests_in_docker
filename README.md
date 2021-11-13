@@ -1,5 +1,1 @@
-# Bedrock WordPress site using dockerized LAMP stack
-
-Details about how use this demo project is [here](https://rokpoto.com/create-wordpress-site-using-dockerized-lamp-stack/)
-
-Inspired by [this](https://github.com/sprintcube/docker-compose-lamp) project
+[Demo of Selenium tests in Docker container. Chrome Browser runs in Docker too.](https://www.rokpoto.com/selenium-tests-in-docker/)
